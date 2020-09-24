@@ -1,1 +1,2 @@
+Worker: npm install
 Worker: node index.js
